@@ -7,7 +7,7 @@ Which in the future I will hopefully add upon with a custom library to use it.
 
 ## Main concept
 
-Replacing text characters, some of which can be several bytes in size, with smaller amount of data, using maps. <br>
+Replacing text characters, some of which can be several bytes in size, with smaller amounts of data, using maps. <br>
 For several thousand .txt files, this can make a relatively big difference.
 
 Example :
