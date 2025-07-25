@@ -33,3 +33,6 @@ Each unique text file has its own local palette of characters / map, drawing its
 Or you can see both the local and global palettes as lists, with the local one being part of a map.
 
 I won't go into much more detail, as this pretty much sums up the important part.
+
+
+[![Han shot first!]([https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY](https://youtu.be/0SVJsadM6FI))
