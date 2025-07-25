@@ -35,4 +35,5 @@ Or you can see both the local and global palettes as lists, with the local one b
 I won't go into much more detail, as this pretty much sums up the important part.
 
 
-[![Watch the video](https://img.youtube.com/vi/0SVJsadM6FI/maxresdefault.jpg)](https://youtube.com/watch?v=0SVJsadM6FI)
+https://github.com/user-attachments/assets/4b344ca6-4c77-4ea2-b631-0cc23ce30c4b
+
