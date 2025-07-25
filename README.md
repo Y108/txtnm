@@ -35,4 +35,4 @@ Or you can see both the local and global palettes as lists, with the local one b
 I won't go into much more detail, as this pretty much sums up the important part.
 
 
-[![Han shot first!](https://www.youtube.com/watch?v=0SVJsadM6FI)
+[![Watch the video](https://img.youtube.com/vi/0SVJsadM6FI/maxresdefault.jpg)](https://youtube.com/watch?v=0SVJsadM6FI)
